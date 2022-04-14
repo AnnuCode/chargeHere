@@ -1,0 +1,55 @@
+{
+    "chargers": [
+        {
+            "name": "Xeron Charging",
+            "id": "a001",
+            "address": "Connaught place, delhi",
+            "distance": "2102",
+            "distance_metrics": "metres",
+            "latitude": "28.631649",
+            "longitude": "77.219575",
+            "connector_types": ["lvl1dc-2", "lvl2dc-1", "normalac-1"]
+        },
+        {
+            "name": "Blaze Station",
+            "id": "a002",
+            "address": "Connaught place, delhi",
+            "distance": "3102",
+            "distance_metrics": "metres",
+            "latitude": "28.635598",
+            "longitude": "77.215182",
+            "connector_types": ["lvl1dc-3", "lvl2dc-2", "normalac-0"]
+
+        },
+        {
+            "name": "Hyper Charging",
+            "id": "a003",
+            "address": "Connaught place, delhi",
+            "distance": "4102",
+            "distance_metrics": "metres",
+            "latitude": "28.637485",
+            "longitude": "77.223409",
+            "connector_types": ["lvl1dc-3", "lvl2dc-2", "normalac-3"]
+        },
+        {
+            "name": "Teslo Charging",
+            "id": "a004",
+            "address": "Connaught place, delhi",
+            "distance": "4102",
+            "distance_metrics": "metres",
+            "latitude": "28.626456",
+            "longitude": "77.223239",
+            "connector_types": ["lvl1dc-3", "lvl2dc-2", "normalac-3"]
+        },
+        {
+            "name": "Electra Charging",
+            "id": "a005",
+            "address": "Connaught place, delhi",
+            "distance": "4102",
+            "distance_metrics": "metres",
+            "latitude": "28.622787",
+            "longitude": "77.214485",
+            "connector_types": ["lvl1dc-3", "lvl2dc-2", "normalac-3"]
+        }
+    ]
+}
